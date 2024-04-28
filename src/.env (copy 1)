@@ -1,0 +1,9 @@
+PROJECT_NAME="Restful Backend"
+BACKEND_CORS_ORIGINS=["http://localhost:8000", "https://localhost:8000", "http://localhost", "https://localhost"]
+
+POSTGRES_USER="testy_zhcs_user"
+POSTGRES_PASSWORD="mkYZvUh9zTDKjIQSDZxLZOdUHjtIgiyS"
+POSTGRES_SERVER="dpg-cnhtemi1hbls73fectk0-a.oregon-postgres.render.com"
+POSTGRES_DB="testy_zhcs"
+
+JWT_SECRET_KEY="mAuzjfq4LFgzjtGVg5zNIUEpFSR0csAu"
